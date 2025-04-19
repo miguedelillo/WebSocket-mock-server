@@ -1,0 +1,24 @@
+# Archivos de entorno de Python
+*.pyc
+__pycache__/
+
+# Archivos de entorno virtual
+venv/
+env/
+
+# Archivos de configuración de IDE (ej. PyCharm, VSCode)
+.vscode/
+.idea/
+
+# Archivos de configuración de sistemas operativos (macOS, Windows)
+.DS_Store
+Thumbs.db
+
+# Archivos de certificados y claves
+*.pem
+*.key
+*.crt
+
+# Otros archivos temporales
+*.log
+*.bak
